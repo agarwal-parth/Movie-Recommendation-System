@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+
+# Python cache
+__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.pkl
+*.joblib
+
+# Dataset files
+tmdb_5000_movies.csv
+tmdb_5000_credits.csv
